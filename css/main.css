@@ -2,3 +2,7 @@ body {
   background-color: pink;
   color: purple;
 }
+.animal {
+  width: 200px;
+  height: 200px;
+}
